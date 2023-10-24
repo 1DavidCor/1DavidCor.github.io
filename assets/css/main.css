@@ -2099,7 +2099,7 @@ input, select, textarea {
 			}
 
 		.image img {
-			border-radius: 0.55em;
+			border-radius: 0.35em;
 			display: block;
 		}
 
@@ -2134,7 +2134,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 150%;
 		}
 
 			.image.avatar:before {
@@ -2142,7 +2142,7 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
-				border-radius: 100%;
+				border-radius: 150%;
 				width: 100%;
 			}
 
