@@ -2130,11 +2130,11 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 150%;
+				width: 100%;
 			}
 
 		.image.avatar {
-			border-radius: 150%;
+			border-radius: 1000%;
 		}
 
 			.image.avatar:before {
@@ -2142,7 +2142,7 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
-				border-radius: 150%;
+				border-radius: 100%;
 				width: 100%;
 			}
 
