@@ -33,7 +33,7 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
+ol,  {
 	list-style: none;
 }
 
@@ -2245,7 +2245,7 @@ input, select, textarea {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: inline-flex;
 		cursor: default;
 		list-style: none;
 		margin-left: -1em;
