@@ -3220,23 +3220,3 @@ input, select, textarea {
 			}
 
 	}
-
-.gallery-container {
-  display: flex;
-  overflow-x: auto;
-  gap: 1rem;
-  scroll-snap-type: x mandatory;
-  padding-bottom: 1rem;
-}
-
-.gallery-container img {
-  height: 150px;
-  object-fit: cover;
-  border-radius: 8px;
-  scroll-snap-align: start;
-  flex-shrink: 0;
-}
-
-.work-item {
-  margin-bottom: 2rem;
-}
